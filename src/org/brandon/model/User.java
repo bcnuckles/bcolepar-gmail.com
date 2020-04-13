@@ -7,6 +7,7 @@ public class User {
     private int j;
     private int test;
     
+    private int devl4;
     public String getName() {
         return name;
     }
