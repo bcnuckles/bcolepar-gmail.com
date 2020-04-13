@@ -19,5 +19,9 @@ public class User {
     public String toString() {
         return "User [name=" + name + "]";
     }
+    
+    public int toInterger() {
+        return 2;
+    }
 
 }
