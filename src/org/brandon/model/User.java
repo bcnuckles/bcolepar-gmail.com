@@ -3,6 +3,7 @@ package org.brandon.model;
 public class User {
     private String name;
     private int age;
+    private int something;
     public String getName() {
         return name;
     }
