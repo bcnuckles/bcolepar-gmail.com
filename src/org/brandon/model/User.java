@@ -7,6 +7,20 @@ public class User {
     private int j;
     private int test;
     
+    public User(String name, int age, int something, int j, int test, int devl4) {
+        super();
+        this.name = name;
+        this.age = age;
+        this.something = something;
+        this.j = j;
+        this.test = test;
+        this.devl4 = devl4;
+    }
+
+    public User() {
+        super();
+    }
+
     private int devl4;
     public String getName() {
         return name;
