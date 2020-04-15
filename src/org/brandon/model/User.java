@@ -7,6 +7,7 @@ public class User {
     private int j;
     private int test;
     private int test2;
+    private String newbranch;
     
     public User(String name, int age, int something, int j, int test, int devl4) {
         super();
