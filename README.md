@@ -1,2 +1,2 @@
 # bcolepar-gmail.com
-sample-git-project
+Added more tedt to the read me file sample-git-project
